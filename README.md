@@ -2,7 +2,7 @@
 
 Code for our paper: Unified 3D Segmenter As Prototypical Classifiers
 
-![arch](img/arch.png)
+![arch](arch.png)
 
 ## Data Preparation
 
